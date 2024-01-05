@@ -4,7 +4,6 @@
 /*==(keyword) let /const namaVariabel = isiVAriabel/Value/Nilai;==*/
 /*==variabel adalah tempat untuk menyimpan nilai/value==*/
 
-
 // let mtk = 90;
 // let dpk = 82;
 // let bing = 86;
@@ -56,7 +55,6 @@
 
 // console.log(mean)
 // console.log(grade)
-
 
 /* 1. angka1-angka50 dan angka50-angka1 dengan for dan while*/
 /* 2. cetak tahun 2000 - 2023  dengan do while*/
